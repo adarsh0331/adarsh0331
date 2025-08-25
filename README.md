@@ -1,6 +1,6 @@
 # 👋 Hii, I’m Adarsh  – Devops Engineer 
 
-I'm a DevOps Engineer with a passion for cloud computing, automation, CI/CD, and infrastructure as code. I thrive on building scalable, efficient, and secure systems that power modern applications.
+I’m a DevOps Engineer passionate about cloud computing, automation, CI/CD, and Infrastructure as Code (IaC). I enjoy building scalable, secure, and efficient systems that power modern applications while continuously learning and improving.
 
 🌎 Always learning and optimizing!
 

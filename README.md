@@ -7,8 +7,8 @@ I’m a DevOps Engineer passionate about cloud computing, automation, CI/CD, and
 ## 💻 Tech Stack & Skills  
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-🔄 CI/CD:![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-FE5B00?style=for-the-badge&logo=argo&logoColor=white)
+
+## 🔄 CI/CD:![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)![ArgoCD](https://img.shields.io/badge/ArgoCD-FE5B00?style=for-the-badge&logo=argo&logoColor=white)
 
 📜 Infrastructure as Code:![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
